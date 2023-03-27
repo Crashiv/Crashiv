@@ -7,5 +7,3 @@
 Crashiv/Crashiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Resume
-[Shivam-Shah_IIT-Dhanbad.pdf](https://github.com/Crashiv/Crashiv/files/7288317/Shivam-Shah_IIT-Dhanbad.pdf)
